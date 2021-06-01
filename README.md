@@ -158,7 +158,7 @@ Therefore, data management should be given a higher priority than any other part
 
 ## Taxonomy and Order of Data Failure Cases
 
-The following is a list of extremely _bad_ behaviors and states that could happen in order of severity.
+The following is a list of extremely _bad_ behaviors and states that could happen in order of severity and in any app should _never ever_ have.
 
 ### 1 - Large Scale Data Corruption
 
